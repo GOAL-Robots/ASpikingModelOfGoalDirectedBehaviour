@@ -13,4 +13,4 @@ that contains the project and typing:
 
 >python setup.py
 
-**N.B.: python 3.6 or superior is required
+**N.B.: python 3.6 or superior is required**
