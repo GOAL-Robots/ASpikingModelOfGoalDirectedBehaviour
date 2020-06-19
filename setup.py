@@ -16,7 +16,8 @@ AUTHORS = 'Ruggero Basanisi, ' \
           'Gianluca Baldassarre'
 MAINTEINER = 'Ruggero Basanisi'
 PAPER_PREPRINT = 'https://doi.org/10.1101/867366'
-GITHUB_URL = 'https://github.com/StanSStanman/SNN_GDB'
+GITHUB_URL = \
+    'https://github.com/GOAL-Robots/ASpikingModelOfGoalDirectedBehaviour'
 EXTRA_REQ = {'hdf5 files r/w': ['h5py']}
 
 setup(
